@@ -17,6 +17,6 @@ $(function() {
 	var ranVideo = Math.floor((Math.random() * 8) + 1);
 	var videoFile = 'vid/background-' + ranVideo + '.mp4';
 
-	$('#bgvid source').attr('src', videoFile);
+	$('#bgvid source').attr('src', videoFile).attr('loop','loop');
 	$('#bgvid')[0].load();
 });
