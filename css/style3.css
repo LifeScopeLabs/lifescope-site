@@ -3,7 +3,7 @@ body {
     padding: 0;
     font-family: 'Quicksand', sans-serif;
     font-weight: 400;
-    color: #2acedf;
+    color: #2acede;
 }
 
 video {
@@ -42,7 +42,7 @@ video {
     font-size: 1.3em;
 }
 
-#bitscoop {
+#lifescope {
     background: rgba(255, 255, 255, 0.85);
     width: 100%;
     height: 100%;
@@ -54,29 +54,29 @@ video {
     align-items: center;
 }
 
-#bitscoop.altback {
+#lifescope.altback {
     /*background: none !important;*/
 }
 
-#bitscoop h1 {
+#lifescope h1 {
     font-size: 4em;
     font-weight: 400;
     text-shadow: 0 0 10px #fff;
 }
 
-#bitscoop h4 {
+#lifescope h4 {
     font-size: 2em;
     font-weight: 400;
     text-shadow: 0 0 10px #fff;
 }
 
-#bitscoop h1 span {
+#lifescope h1 span {
     font-size: 0.2em;
     position: relative;
     bottom: 25px;
 }
 
-#bitscoop a {
+#lifescope a {
     font-size: 2em;
     display: inline-block;
     text-decoration: none;
@@ -90,7 +90,7 @@ video {
     text-align: center;
 }
 
-#bitscoop a:hover {
+#lifescope a:hover {
     -webkit-transition: .6s background;
     transition: .6s background;
     background-color: #2AC1DE;
@@ -108,7 +108,7 @@ video {
         display: none;
     }
 
-    #bitscoop {
+    #lifescope {
         font-size: 0.5rem;
     }
 }
