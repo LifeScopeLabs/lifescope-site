@@ -1,11 +1,11 @@
-# LIFESCOPE Site
+# [LIFESCOPE-SITE](https://github.com/LifeScopeLabs/lifescope-site)
 
-> LIFESCOPE is the internet of you.
->
-> This is the source for lifescope.io and all lifescope user public documentation.
+## [Repository](https://github.com/LifeScopeLabs/lifescope-site)
 
-## Developer Setup
+(beta phase, low priority)
 
-TODO: Add
+The LIFESCOPE public site with consumer facing information and all app documentation is at lifescope.io. This repo contains backups of all site content and documentation for lifescope.io currently hosted on SquareSquare.
 
-For detailed explanation on how things work, checkout the [LIFESCOPE docs](https://lifescope.io/learn).
+### Requirements
+- **MVP**: Create markdown of all content on current pages. Backup all assets.
+- Backup all CSS and fonts
