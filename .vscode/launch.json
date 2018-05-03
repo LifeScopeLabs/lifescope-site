@@ -1,0 +1,26 @@
+{
+    "version": "0.1.0",
+    "configurations": [
+        {
+            "name": "site-1",
+            "type": "chrome",
+            "request": "launch",
+            "sourceMaps": true,
+            "url": "file:///Users/williambroza/Development/Sources/lifescope/lifescope-site/index.html"
+        },
+        {
+            "name": "site-2",
+            "type": "chrome",
+            "request": "launch",
+            "sourceMaps": true,
+            "url": "file:///Users/williambroza/Development/Sources/lifescope/lifescope-site/index2.html"
+        },
+        {
+            "name": "site-3",
+            "type": "chrome",
+            "request": "launch",
+            "sourceMaps": true,
+            "url": "file:///Users/williambroza/Development/Sources/lifescope/lifescope-site/index3.html"
+        },
+    ]
+}
